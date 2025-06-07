@@ -5,7 +5,7 @@ package com.chhabinath.javaprojects.studentmanagementsystem;
  * It is annotated with `@SpringBootApplication`, indicating that it is a Spring Boot application.
  * This class contains the `main` method, which is the starting point of the application.
  * 
- * @author: Chhabinath Sahoo
+ * @author: Raunak Sharma
  * @version: 1.0
  */
 import org.springframework.boot.SpringApplication;

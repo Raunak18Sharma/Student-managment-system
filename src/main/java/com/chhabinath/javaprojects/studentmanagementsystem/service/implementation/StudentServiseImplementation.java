@@ -5,7 +5,7 @@ package com.chhabinath.javaprojects.studentmanagementsystem.service.implementati
  * It handles business logic related to student management by interacting with the `StudentRepository`.
  * This class is responsible for retrieving, saving, updating, and deleting student records.
  * 
- * @author: Chhabinath Sahoo
+ * @author: Raunak Sharma
  * @version: 1.0
  */
 import java.util.List;
