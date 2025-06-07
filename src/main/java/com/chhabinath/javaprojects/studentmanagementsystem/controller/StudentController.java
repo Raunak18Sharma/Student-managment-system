@@ -6,7 +6,7 @@ package com.chhabinath.javaprojects.studentmanagementsystem.controller;
  * editing, updating, and deleting student records. This controller integrates
  * with the `StudentService` to perform these operations.
  * 
- * @author: Chhabinath Sahoo
+ * @author: Raunak Sharma
  * @version 1.0
  */
 import org.springframework.stereotype.Controller;

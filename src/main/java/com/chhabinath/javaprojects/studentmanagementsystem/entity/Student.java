@@ -6,7 +6,7 @@ package com.chhabinath.javaprojects.studentmanagementsystem.entity;
  * table named "students." Each `Student` object holds information about a
  * student, including their unique ID, first name, last name, and email address.
  * 
- * @author: Chhabinath Sahoo 
+ * @author: Raunak Sharma
  * @version: 1.0
  */
 

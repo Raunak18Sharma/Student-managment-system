@@ -6,7 +6,7 @@ package com.chhabinath.javaprojects.studentmanagementsystem.repository;
  * for the `Student` entity. This interface is typically used to interact with a database or data store
  * to perform operations related to student data.
  * 
- * @author: Chhabinath Sahoo
+ * @author: Raunak Sharma
  * @version: 1.0
  */
 import org.springframework.data.jpa.repository.JpaRepository;
