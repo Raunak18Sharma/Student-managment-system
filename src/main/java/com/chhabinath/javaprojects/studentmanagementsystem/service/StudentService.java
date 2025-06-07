@@ -5,7 +5,7 @@ package com.chhabinath.javaprojects.studentmanagementsystem.service;
  * management system. It provides methods for retrieving, saving, updating, and
  * deleting student records.
  *
- * @author Chhabinath Sahoo
+ * @author Raunak Sharma
  * @version 1.0
  */
 import java.util.List;
