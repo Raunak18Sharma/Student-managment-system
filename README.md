@@ -2,7 +2,7 @@
 # Student Management System
 
 ## Description
-
+@author Raunak Sharma
 The Student Management System is a web application designed to manage student records. It allows you to perform CRUD (Create, Read, Update, Delete) operations on student data. This application is built using Spring Boot, Hibernate, Thymeleaf, and SQL.
 
 ## Features
